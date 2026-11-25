@@ -1,1 +1,10 @@
-streamlit\npandas\npdfplumber\nopenpyxl\nxlrd\npython-docx\nscikit-learn\npymupdf\npytesseract\nPillow\n
+streamlit
+pandas
+pdfplumber
+openpyxl
+xlrd
+python-docx
+scikit-learn
+pymupdf
+pytesseract
+Pillow
