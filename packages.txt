@@ -1,0 +1,1 @@
+# Linux system packages for Streamlit Community Cloud\ntesseract-ocr\nlibreoffice\n

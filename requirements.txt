@@ -1,0 +1,1 @@
+streamlit\npandas\npdfplumber\nopenpyxl\nxlrd\npython-docx\nscikit-learn\npymupdf\npytesseract\nPillow\n
